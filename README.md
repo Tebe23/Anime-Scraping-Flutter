@@ -1,1 +1,3 @@
-# Anime-Scraping-Flutter
+# animeku
+
+A new Flutter project.
